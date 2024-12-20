@@ -240,15 +240,13 @@
     @apply sticky top-0 z-50 md:hidden bg-dark-2 w-full;
   }
 
-  /* User card */
+
   .user-card {
     @apply flex-center flex-col gap-4 border border-dark-4 rounded-[20px] px-5 py-8;
   }
 }
 
 @layer components {
-  /* SHADCN COMPONENTS */
-  /* Form */
   .shad-form_label {
     @apply text-white ;
   }
@@ -265,7 +263,6 @@
     @apply h-36 bg-dark-3 rounded-xl border-none focus-visible:ring-1 focus-visible:ring-offset-1 ring-offset-light-3 ;
   }
 
-  /* Button */
   .shad-button_primary {
     @apply bg-primary-500 hover:bg-primary-500 text-light-1 flex gap-2 ;
   }

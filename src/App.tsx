@@ -1,4 +1,4 @@
-
+import './globals.css";
 const App = () => {
   return (
     <div></div>
