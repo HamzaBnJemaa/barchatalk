@@ -1,7 +1,13 @@
 import './globals.css";
 const App = () => {
   return (
-    <div></div>
+    <div>
+      <div>
+        <span>
+          hamza
+        </span>
+      </div>
+    </div>
   )
 }
 
